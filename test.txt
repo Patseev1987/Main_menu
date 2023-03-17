@@ -1,0 +1,6 @@
+1 e e e 3 
+2 o o o 0 
+3 g g g 5 
+4 z z z 33 
+5 b b b 7 
+6 u h b 9 
